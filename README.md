@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Mental Health Chatbot
 
 This project is a Flask-based AI chatbot designed to provide mental health support through intelligent conversation. It can detect mood, offer coping strategies, and track user well-being over time.
@@ -21,3 +22,6 @@ This project is a Flask-based AI chatbot designed to provide mental health suppo
 
 ## License
 This project is for academic purposes.
+=======
+# AI-Mental-health-chatbot
+>>>>>>> 523a89f5f136f715d706a12139d3ccddfe76224c
